@@ -1,0 +1,12 @@
+C:\Users\Vova1\source\repos\ITProject\Repositories\bin\Debug\net10.0\Repositories.deps.json
+C:\Users\Vova1\source\repos\ITProject\Repositories\bin\Debug\net10.0\Repositories.dll
+C:\Users\Vova1\source\repos\ITProject\Repositories\bin\Debug\net10.0\Repositories.pdb
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.dll
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\refint\Repositories.dll
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.pdb
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\ref\Repositories.dll
+C:\Users\Vova1\source\repos\ITProject\Repositories\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache

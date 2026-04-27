@@ -1,0 +1,11 @@
+C:\Users\Vova1\source\repos\ITProject\Dtos\bin\Debug\net10.0\Dtos.deps.json
+C:\Users\Vova1\source\repos\ITProject\Dtos\bin\Debug\net10.0\Dtos.dll
+C:\Users\Vova1\source\repos\ITProject\Dtos\bin\Debug\net10.0\Dtos.pdb
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.AssemblyInfo.cs
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.dll
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\refint\Dtos.dll
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\Dtos.pdb
+C:\Users\Vova1\source\repos\ITProject\Dtos\obj\Debug\net10.0\ref\Dtos.dll

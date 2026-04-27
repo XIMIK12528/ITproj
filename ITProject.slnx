@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Dataaccsess/">
+    <Project Path="Context/Context.csproj" Id="82c090bd-67a3-4827-b811-4070ee317eab" />
+    <Project Path="DbModels/DbModels.csproj" Id="65713c3d-1e2e-4fab-94d1-5704da06397d" />
+    <Project Path="Repositories/Repositories.csproj" Id="9acf836d-cbd9-406a-89bf-3a72c7e23fd5" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="AuthService/AuthService.csproj" Id="504b322f-1f3a-4ef8-a1ea-dfb792ab8252" />
+  </Folder>
+  <Project Path="Domain/Domain.csproj" Id="deaeedd6-5fa9-49d8-96b0-b915c494dd5c" />
+  <Project Path="Dtos/Dtos.csproj" Id="93221212-0cdf-466f-835b-e5bea956d2d6" />
+  <Project Path="ITProject/ITProject.csproj" />
+</Solution>
