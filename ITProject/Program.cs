@@ -1,11 +1,16 @@
-﻿using Serilog;
+﻿using DataAccsess.Context;
+using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 try
 {
     Log.Logger = new LoggerConfiguration().WriteTo.Console().CreateBootstrapLogger();
 
     var host = CreateHostBuilder(args).Build();
-    //await host.MigrateDatabaseAsync<PlatypusContext>();
+    await using var serviceScope = host.Services.CreateAsyncScope();
+    await using var context = serviceScope.ServiceProvider.GetRequiredService<Context>();
+
+    await context.Database.MigrateAsync();
     await host.RunAsync();
 }
 catch (Exception ex)
@@ -20,7 +25,8 @@ finally
 static IHostBuilder CreateHostBuilder(string[] args)
 {
     var webHost = Host.CreateDefaultBuilder(args)
-        .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); });
+        .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); })
+        .UseSerilog();
 
     return webHost;
 }

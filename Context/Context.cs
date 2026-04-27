@@ -1,6 +1,5 @@
 ﻿using DbModels;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace DataAccsess.Context
 {

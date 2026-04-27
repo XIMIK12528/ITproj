@@ -1,110 +1,146 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\",
+  "WorkspaceRootPath": "F:\\repos\\ITproj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|c:\\users\\vova1\\source\\repos\\itproject\\itproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|c:\\users\\vova1\\source\\repos\\itproject\\itproject\\itproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\itproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|c:\\users\\vova1\\source\\repos\\itproject\\dbmodels\\converters\\accountdbconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\converters\\accountdbconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|c:\\users\\vova1\\source\\repos\\itproject\\dbmodels\\converters\\enums\\accountroledbconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\converters\\enums\\accountroledbconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|c:\\users\\vova1\\source\\repos\\itproject\\dbmodels\\enums\\accountroledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\enums\\accountroledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|c:\\users\\vova1\\source\\repos\\itproject\\itproject\\controllers\\autorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\controllers\\autorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ACF836D-CBD9-406A-89BF-3A72C7E23FD5}|Repositories\\Repositories.csproj|c:\\users\\vova1\\source\\repos\\itproject\\repositories\\accountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ACF836D-CBD9-406A-89BF-3A72C7E23FD5}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|c:\\users\\vova1\\source\\repos\\itproject\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\models\\auth\\authclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\auth\\authclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|c:\\users\\vova1\\source\\repos\\itproject\\authservice\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\exceptions\\account\\invalidaccountdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\account\\invalidaccountdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\exceptions\\account\\accountnotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\account\\accountnotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\exceptions\\base\\baseprojexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\baseprojexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\exceptions\\base\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\interfaces\\repositories\\iaccountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iaccountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|c:\\users\\vova1\\source\\repos\\itproject\\dbmodels\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\models\\auth\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\auth\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|c:\\users\\vova1\\source\\repos\\itproject\\domain\\models\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|c:\\users\\vova1\\source\\repos\\itproject\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|solutionrelative:context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|c:\\users\\vova1\\source\\repos\\itproject\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|c:\\users\\vova1\\source\\repos\\itproject\\itproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|c:\\users\\vova1\\source\\repos\\itproject\\itproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|c:\\users\\vova1\\source\\repos\\itproject\\context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|f:\\repos\\itproj\\context\\dataaccsess\\context\\20260427204151_initialauthmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|solutionrelative:context\\dataaccsess\\context\\20260427204151_initialauthmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|f:\\repos\\itproj\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|solutionrelative:context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|f:\\repos\\itproj\\context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{82C090BD-67A3-4827-B811-4070EE317EAB}|Context\\Context.csproj|solutionrelative:context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|c:\\users\\vova1\\source\\repos\\itproject\\dtos\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|solutionrelative:dtos\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|f:\\repos\\itproj\\dbmodels\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\accountdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\repos\\ITproj\\Context\\Migrations\\20260427203326_InitialAuthMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Context\\Migrations\\20260427203326_InitialAuthMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\middlewears\\offerisacceptedrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\middlewears\\offerisacceptedrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\controllers\\autorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\controllers\\autorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF836D-CBD9-406A-89BF-3A72C7E23FD5}|Repositories\\Repositories.csproj|f:\\repos\\itproj\\repositories\\accountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACF836D-CBD9-406A-89BF-3A72C7E23FD5}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|f:\\repos\\itproj\\dbmodels\\refreshtokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\refreshtokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|f:\\repos\\itproj\\dtos\\auth\\logindatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|solutionrelative:dtos\\auth\\logindatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|f:\\repos\\itproj\\dtos\\auth\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|solutionrelative:dtos\\auth\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\extentions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\extentions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\models\\auth\\authclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\auth\\authclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|f:\\repos\\itproj\\authservice\\jwttokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\jwttokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\extentions\\authenticationproviderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\extentions\\authenticationproviderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|f:\\repos\\itproj\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|f:\\repos\\itproj\\authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{504B322F-1F3A-4EF8-A1EA-DFB792AB8252}|AuthService\\AuthService.csproj|solutionrelative:authservice\\authservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\interfaces\\repositories\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\interfaces\\repositories\\iaccountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\iaccountrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|f:\\repos\\itproj\\dtos\\auth\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93221212-0CDF-466F-835B-E5BEA956D2D6}|Dtos\\Dtos.csproj|solutionrelative:dtos\\auth\\authdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|f:\\repos\\itproj\\itproject\\itproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4221ED7E-36C5-9795-BA45-A1A2D495CF0C}|ITProject\\ITProject.csproj|solutionrelative:itproject\\itproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|f:\\repos\\itproj\\dbmodels\\converters\\accountdbconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\converters\\accountdbconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|f:\\repos\\itproj\\dbmodels\\converters\\enums\\accountroledbconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\converters\\enums\\accountroledbconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|f:\\repos\\itproj\\dbmodels\\enums\\accountroledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65713C3D-1E2E-4FAB-94D1-5704DA06397D}|DbModels\\DbModels.csproj|solutionrelative:dbmodels\\enums\\accountroledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\exceptions\\account\\invalidaccountdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\account\\invalidaccountdataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\exceptions\\account\\accountnotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\account\\accountnotfountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\exceptions\\base\\baseprojexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\baseprojexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\exceptions\\base\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\models\\auth\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\auth\\authdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|f:\\repos\\itproj\\domain\\models\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAEEDD6-5FA9-49D8-96B0-B915C494DD5C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\enums\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,76 +150,309 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260427204151_InitialAuthMigration.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Context\\DataAccsess\\Context\\20260427204151_InitialAuthMigration.cs",
+              "RelativeDocumentMoniker": "Context\\DataAccsess\\Context\\20260427204151_InitialAuthMigration.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Context\\DataAccsess\\Context\\20260427204151_InitialAuthMigration.cs",
+              "RelativeToolTip": "Context\\DataAccsess\\Context\\20260427204151_InitialAuthMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T20:41:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260427203326_InitialAuthMigration.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Context\\Migrations\\20260427203326_InitialAuthMigration.cs",
+              "RelativeDocumentMoniker": "Context\\Migrations\\20260427203326_InitialAuthMigration.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Context\\Migrations\\20260427203326_InitialAuthMigration.cs",
+              "RelativeToolTip": "Context\\Migrations\\20260427203326_InitialAuthMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T20:33:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Startup.cs",
+              "RelativeDocumentMoniker": "ITProject\\Startup.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Startup.cs",
+              "RelativeToolTip": "ITProject\\Startup.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:40:50.684Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\appsettings.json",
-              "RelativeDocumentMoniker": "ITProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\appsettings.json",
-              "RelativeToolTip": "ITProject\\appsettings.json",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Program.cs",
+              "RelativeDocumentMoniker": "ITProject\\Program.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Program.cs",
+              "RelativeToolTip": "ITProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:33:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "Context\\Context.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Context\\Context.cs",
+              "RelativeToolTip": "Context\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:39:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.csproj",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Context\\Context.csproj",
+              "RelativeDocumentMoniker": "Context\\Context.csproj",
+              "ToolTip": "F:\\repos\\ITproj\\Context\\Context.csproj",
+              "RelativeToolTip": "Context\\Context.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:00:35.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ITProject\\appsettings.json",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\appsettings.json",
+              "RelativeToolTip": "ITProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-27T16:41:21.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "LoginDataDto.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Dtos\\Auth\\LoginDataDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Auth\\LoginDataDto.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Dtos\\Auth\\LoginDataDto.cs",
+              "RelativeToolTip": "Dtos\\Auth\\LoginDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:04:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Dtos\\Auth\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Auth\\RefreshTokenDto.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Dtos\\Auth\\RefreshTokenDto.cs",
+              "RelativeToolTip": "Dtos\\Auth\\RefreshTokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:49:16.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AccountRepsitory.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Repositories\\AccountRepsitory.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Repositories\\AccountRepsitory.cs",
               "RelativeDocumentMoniker": "Repositories\\AccountRepsitory.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Repositories\\AccountRepsitory.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Repositories\\AccountRepsitory.cs",
               "RelativeToolTip": "Repositories\\AccountRepsitory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T11:40:09.625Z"
+              "WhenOpened": "2026-04-23T11:40:09.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "AccountDb.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\DbModels\\AccountDb.cs",
+              "RelativeDocumentMoniker": "DbModels\\AccountDb.cs",
+              "ToolTip": "F:\\repos\\ITproj\\DbModels\\AccountDb.cs",
+              "RelativeToolTip": "DbModels\\AccountDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:39:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OfferIsAcceptedRequirement.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Middlewears\\OfferIsAcceptedRequirement.cs",
+              "RelativeDocumentMoniker": "ITProject\\Middlewears\\OfferIsAcceptedRequirement.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Middlewears\\OfferIsAcceptedRequirement.cs",
+              "RelativeToolTip": "ITProject\\Middlewears\\OfferIsAcceptedRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:29:18.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshTokenDb.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\DbModels\\RefreshTokenDb.cs",
+              "RelativeDocumentMoniker": "DbModels\\RefreshTokenDb.cs",
+              "ToolTip": "F:\\repos\\ITproj\\DbModels\\RefreshTokenDb.cs",
+              "RelativeToolTip": "DbModels\\RefreshTokenDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:38:16.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AutorizationController.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Controllers\\AutorizationController.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Controllers\\AutorizationController.cs",
               "RelativeDocumentMoniker": "ITProject\\Controllers\\AutorizationController.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Controllers\\AutorizationController.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Controllers\\AutorizationController.cs",
               "RelativeToolTip": "ITProject\\Controllers\\AutorizationController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T09:11:46.225Z"
+              "WhenOpened": "2026-04-21T09:11:46.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountRoleDb.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Enums\\AccountRoleDb.cs",
-              "RelativeDocumentMoniker": "DbModels\\Enums\\AccountRoleDb.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Enums\\AccountRoleDb.cs",
-              "RelativeToolTip": "DbModels\\Enums\\AccountRoleDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Extentions\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "ITProject\\Extentions\\HttpContextExtensions.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Extentions\\HttpContextExtensions.cs",
+              "RelativeToolTip": "ITProject\\Extentions\\HttpContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T11:46:58.439Z"
+              "WhenOpened": "2026-04-27T19:07:47.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountRoleDbConvertor.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
-              "RelativeDocumentMoniker": "DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
-              "RelativeToolTip": "DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBMAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "AuthClaims.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Models\\Auth\\AuthClaims.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Auth\\AuthClaims.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Models\\Auth\\AuthClaims.cs",
+              "RelativeToolTip": "Domain\\Models\\Auth\\AuthClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:05:53.324Z"
+              "WhenOpened": "2026-04-23T14:08:37.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
+              "Title": "JwtTokenConfiguration.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\AuthService\\JwtTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "AuthService\\JwtTokenConfiguration.cs",
+              "ToolTip": "F:\\repos\\ITproj\\AuthService\\JwtTokenConfiguration.cs",
+              "RelativeToolTip": "AuthService\\JwtTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:05:45.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthenticationProviderExtension.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\Extentions\\AuthenticationProviderExtension.cs",
+              "RelativeDocumentMoniker": "ITProject\\Extentions\\AuthenticationProviderExtension.cs",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\Extentions\\AuthenticationProviderExtension.cs",
+              "RelativeToolTip": "ITProject\\Extentions\\AuthenticationProviderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:13:38.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\AuthService\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.cs",
+              "ToolTip": "F:\\repos\\ITproj\\AuthService\\AuthService.cs",
+              "RelativeToolTip": "AuthService\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:09:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.csproj",
+              "DocumentMoniker": "F:\\repos\\ITproj\\AuthService\\AuthService.csproj",
+              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
+              "ToolTip": "F:\\repos\\ITproj\\AuthService\\AuthService.csproj",
+              "RelativeToolTip": "AuthService\\AuthService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:12:40.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Interfaces\\Repositories\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IAuthService.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Interfaces\\Repositories\\IAuthService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:05:45.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthDataDto.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Dtos\\Auth\\AuthDataDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Auth\\AuthDataDto.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Dtos\\Auth\\AuthDataDto.cs",
+              "RelativeToolTip": "Dtos\\Auth\\AuthDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:02:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "AccountDbConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Converters\\AccountDbConverter.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\DbModels\\Converters\\AccountDbConverter.cs",
               "RelativeDocumentMoniker": "DbModels\\Converters\\AccountDbConverter.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\Converters\\AccountDbConverter.cs",
+              "ToolTip": "F:\\repos\\ITproj\\DbModels\\Converters\\AccountDbConverter.cs",
               "RelativeToolTip": "DbModels\\Converters\\AccountDbConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,245 +461,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\AuthService.cs",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\AuthService.cs",
-              "RelativeToolTip": "AuthService\\AuthService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDUAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T12:09:07.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthClaims.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Auth\\AuthClaims.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Auth\\AuthClaims.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Auth\\AuthClaims.cs",
-              "RelativeToolTip": "Domain\\Models\\Auth\\AuthClaims.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:08:37.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JwtToken.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\JwtToken.cs",
-              "RelativeDocumentMoniker": "AuthService\\JwtToken.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\JwtToken.cs",
-              "RelativeToolTip": "AuthService\\JwtToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:05:45.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InvalidAccountDataException.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:50:24.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AccountNotFountException.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Account\\AccountNotFountException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\Account\\AccountNotFountException.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Account\\AccountNotFountException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\Account\\AccountNotFountException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:31:56.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseProjException.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\BaseProjException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\BaseProjException.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\BaseProjException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\Base\\BaseProjException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:34:37.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InvalidException.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\InvalidException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\InvalidException.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\InvalidException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\Base\\InvalidException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:49:05.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Exceptions\\Base\\NotFoundException.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\Base\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:40:37.52Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Account.cs",
-              "RelativeToolTip": "Domain\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:01:38.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IAccountRepsitory.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T12:59:54.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccountDb.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\AccountDb.cs",
-              "RelativeDocumentMoniker": "DbModels\\AccountDb.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\AccountDb.cs",
-              "RelativeToolTip": "DbModels\\AccountDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T11:39:50.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AccountRole.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Enums\\AccountRole.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Enums\\AccountRole.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Enums\\AccountRole.cs",
-              "RelativeToolTip": "Domain\\Models\\Enums\\AccountRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:04:41.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AuthData.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Auth\\AuthData.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Auth\\AuthData.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Models\\Auth\\AuthData.cs",
-              "RelativeToolTip": "Domain\\Models\\Auth\\AuthData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T12:26:40.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Context\\Context.cs",
-              "RelativeDocumentMoniker": "Context\\Context.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Context\\Context.cs",
-              "RelativeToolTip": "Context\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T11:39:21.182Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "AuthService.csproj",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\AuthService.csproj",
-              "RelativeDocumentMoniker": "AuthService\\AuthService.csproj",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\AuthService\\AuthService.csproj",
-              "RelativeToolTip": "AuthService\\AuthService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-23T12:12:40.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Startup.cs",
-              "RelativeDocumentMoniker": "ITProject\\Startup.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Startup.cs",
-              "RelativeToolTip": "ITProject\\Startup.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
+              "Title": "IAccountRepsitory.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IAccountRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:40:50.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Program.cs",
-              "RelativeDocumentMoniker": "ITProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\Program.cs",
-              "RelativeToolTip": "ITProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:33:10.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Context.csproj",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Context\\Context.csproj",
-              "RelativeDocumentMoniker": "Context\\Context.csproj",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Context\\Context.csproj",
-              "RelativeToolTip": "Context\\Context.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-23T12:00:35.391Z"
+              "WhenOpened": "2026-04-23T12:59:54.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "AuthDataDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Dtos\\AuthDataDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AuthDataDto.cs",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Dtos\\AuthDataDto.cs",
-              "RelativeToolTip": "Dtos\\AuthDataDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Title": "AccountRoleDbConvertor.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
+              "RelativeDocumentMoniker": "DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
+              "ToolTip": "F:\\repos\\ITproj\\DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
+              "RelativeToolTip": "DbModels\\Converters\\Enums\\AccountRoleDbConvertor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T09:16:43.055Z"
+              "WhenOpened": "2026-04-23T13:05:53.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 26,
+              "Title": "AccountRoleDb.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\DbModels\\Enums\\AccountRoleDb.cs",
+              "RelativeDocumentMoniker": "DbModels\\Enums\\AccountRoleDb.cs",
+              "ToolTip": "F:\\repos\\ITproj\\DbModels\\Enums\\AccountRoleDb.cs",
+              "RelativeToolTip": "DbModels\\Enums\\AccountRoleDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:46:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InvalidAccountDataException.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Account\\InvalidAccountDataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:50:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountNotFountException.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Exceptions\\Account\\AccountNotFountException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Account\\AccountNotFountException.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Exceptions\\Account\\AccountNotFountException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Account\\AccountNotFountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:31:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseProjException.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\BaseProjException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\BaseProjException.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\BaseProjException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Base\\BaseProjException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:34:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InvalidException.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\InvalidException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\InvalidException.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\InvalidException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Base\\InvalidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:49:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:40:37.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Account.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Models\\Account.cs",
+              "RelativeToolTip": "Domain\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:01:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountRole.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Models\\Enums\\AccountRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Enums\\AccountRole.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Models\\Enums\\AccountRole.cs",
+              "RelativeToolTip": "Domain\\Models\\Enums\\AccountRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:04:41.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthData.cs",
+              "DocumentMoniker": "F:\\repos\\ITproj\\Domain\\Models\\Auth\\AuthData.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Auth\\AuthData.cs",
+              "ToolTip": "F:\\repos\\ITproj\\Domain\\Models\\Auth\\AuthData.cs",
+              "RelativeToolTip": "Domain\\Models\\Auth\\AuthData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:26:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ITProject.csproj",
-              "DocumentMoniker": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\ITProject.csproj",
+              "DocumentMoniker": "F:\\repos\\ITproj\\ITProject\\ITProject.csproj",
               "RelativeDocumentMoniker": "ITProject\\ITProject.csproj",
-              "ToolTip": "C:\\Users\\Vova1\\source\\repos\\ITProject\\ITProject\\ITProject.csproj",
+              "ToolTip": "F:\\repos\\ITproj\\ITProject\\ITProject.csproj",
               "RelativeToolTip": "ITProject\\ITProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-21T08:33:10.65Z",
               "EditorCaption": ""

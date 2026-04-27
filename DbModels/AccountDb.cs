@@ -6,10 +6,10 @@ namespace DbModels
     {
         public string Login { get; set; }
         public string PasswordHash { get; set; }
-        public Guid Id { get; }
-        public bool IsOfferAccepted { get; }
-        public string? RefreshToken { get; }
-        public AccountRoleDb Role { get; } 
+        public Guid Id { get; set; }
+        public bool IsOfferAccepted { get; set; }
+        public string? RefreshToken { get; set; }
+        public AccountRoleDb Role { get; set; } 
         public AccountDb(string login, string passwordHash, Guid id, bool isOfferAccepted, string? refreshToken, AccountRoleDb role)
         {
             Login = login;

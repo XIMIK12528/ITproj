@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Vova1\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Dtos\\Dtos.csproj",
+      "projectUniqueName": "F:\\repos\\ITproj\\Dtos\\Dtos.csproj",
       "projectName": "Dtos",
-      "projectPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Dtos\\Dtos.csproj",
+      "projectPath": "F:\\repos\\ITproj\\Dtos\\Dtos.csproj",
       "packagesPath": "C:\\Users\\Vova1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Dtos\\obj\\",
+      "outputPath": "F:\\repos\\ITproj\\Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,7 +53,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\repos\\ITproj\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\repos\\ITproj\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -68,7 +91,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

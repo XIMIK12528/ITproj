@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\DbModels.csproj": {}
+    "F:\\repos\\ITproj\\DbModels\\DbModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\DbModels.csproj": {
+    "F:\\repos\\ITproj\\DbModels\\DbModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\DbModels.csproj",
+        "projectUniqueName": "F:\\repos\\ITproj\\DbModels\\DbModels.csproj",
         "projectName": "DbModels",
-        "projectPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\DbModels.csproj",
+        "projectPath": "F:\\repos\\ITproj\\DbModels\\DbModels.csproj",
         "packagesPath": "C:\\Users\\Vova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\DbModels\\obj\\",
+        "outputPath": "F:\\repos\\ITproj\\DbModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Domain.csproj"
+              "F:\\repos\\ITproj\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\repos\\ITproj\\Domain\\Domain.csproj"
               }
             }
           }
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -344,14 +344,14 @@
         }
       }
     },
-    "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Domain.csproj": {
+    "F:\\repos\\ITproj\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\repos\\ITproj\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\Domain.csproj",
+        "projectPath": "F:\\repos\\ITproj\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Vova1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vova1\\source\\repos\\ITProject\\Domain\\obj\\",
+        "outputPath": "F:\\repos\\ITproj\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vova1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -402,7 +402,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

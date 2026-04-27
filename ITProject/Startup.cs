@@ -1,6 +1,9 @@
-using Microsoft.AspNetCore.Authorization;
+using DataAccsess.Context;
+using ITProject.Extensions;
+using ITProject.Middlewears;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using System.Configuration;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
@@ -25,18 +28,23 @@ public class Startup
                     false));
             });
 
+        services.AddDbContext<Context>(
+            opt => opt.UseNpgsql(connectionString: _configuration.GetConnectionString("DefaultConnection")),
+            ServiceLifetime.Transient,
+            ServiceLifetime.Transient);
+
         services.AddCors(o => o.AddPolicy("policy",
             builder =>
             {
                 builder.SetIsOriginAllowed(_ => true).AllowAnyMethod().AllowAnyHeader().AllowCredentials();
             }));
 
-        //services.AddJwtAuthentication(_configuration);
-        //services.AddAuthorization(options =>
-        //{
-        //    options.AddPolicy("OfferIsAccepted",
-        //        policy => policy.Requirements.Add(item: new OfferIsAcceptedRequirement()));
-        //});
+        services.AddJwtAuthentication(_configuration);
+        services.AddAuthorization(options =>
+        {
+            options.AddPolicy("OfferIsAccepted",
+                policy => policy.Requirements.Add(item: new OfferIsAcceptedRequirement()));
+        });
 
         services.AddSwaggerGen();
 
