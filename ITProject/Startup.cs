@@ -29,7 +29,8 @@ public class Startup
             });
 
         services.AddDbContext<Context>(
-            opt => opt.UseNpgsql(connectionString: _configuration.GetConnectionString("DefaultConnection")),
+            opt => opt.UseNpgsql(connectionString: _configuration.GetConnectionString("DefaultConnection"),
+            x => x.MigrationsAssembly("Context")),
             ServiceLifetime.Transient,
             ServiceLifetime.Transient);
 

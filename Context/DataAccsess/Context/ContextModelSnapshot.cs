@@ -50,6 +50,44 @@ namespace DataAccsess.Context
                     b.ToTable("Accounts");
                 });
 
+            modelBuilder.Entity("DbModels.BuildingDb", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Letter")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Buildings");
+                });
+
+            modelBuilder.Entity("DbModels.RoomDb", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("BuildingId")
+                        .HasColumnType("uuid");
+
+                    b.Property<int>("Floor")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("FullNumber")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BuildingId");
+
+                    b.ToTable("Rooms");
+                });
+
             modelBuilder.Entity("RefreshTokenDb", b =>
                 {
                     b.Property<Guid>("Id")
@@ -73,6 +111,17 @@ namespace DataAccsess.Context
                     b.ToTable("RefreshTokens");
                 });
 
+            modelBuilder.Entity("DbModels.RoomDb", b =>
+                {
+                    b.HasOne("DbModels.BuildingDb", "Building")
+                        .WithMany("Rooms")
+                        .HasForeignKey("BuildingId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Building");
+                });
+
             modelBuilder.Entity("RefreshTokenDb", b =>
                 {
                     b.HasOne("DbModels.AccountDb", "Account")
@@ -82,6 +131,11 @@ namespace DataAccsess.Context
                         .IsRequired();
 
                     b.Navigation("Account");
+                });
+
+            modelBuilder.Entity("DbModels.BuildingDb", b =>
+                {
+                    b.Navigation("Rooms");
                 });
 #pragma warning restore 612, 618
         }

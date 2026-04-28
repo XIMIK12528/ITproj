@@ -1,5 +1,4 @@
-﻿using DbModels;
-using Domain.Models;
+﻿using Domain.Models;
 using DbModels.Converters.Enums;
 
 namespace DbModels.Converters

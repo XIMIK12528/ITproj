@@ -8,6 +8,10 @@ namespace DataAccsess.Context
         public DbSet<AccountDb> Accounts { get; set; }
         public DbSet<RefreshTokenDb> RefreshTokens { get; set; }
 
+        public DbSet<RoomDb> Rooms { get; set; }
+
+        public DbSet<BuildingDb> Buildings { get; set; }
+
         public Context()
         {
         }

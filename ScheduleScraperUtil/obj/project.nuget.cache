@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6V/KMJPGJA=",
+  "success": true,
+  "projectFilePath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova1\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.7\\microsoft.entityframeworkcore.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.7\\microsoft.entityframeworkcore.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.7\\microsoft.entityframeworkcore.analyzers.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.4\\microsoft.entityframeworkcore.relational.10.0.4.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.7\\microsoft.extensions.caching.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.7\\microsoft.extensions.caching.memory.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.7\\microsoft.extensions.configuration.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.7\\microsoft.extensions.configuration.fileextensions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.7\\microsoft.extensions.configuration.json.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.7\\microsoft.extensions.diagnostics.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.7\\microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.7\\microsoft.extensions.fileproviders.physical.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.7\\microsoft.extensions.filesystemglobbing.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.7\\microsoft.extensions.hosting.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.logging\\10.0.7\\microsoft.extensions.logging.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.options\\10.0.7\\microsoft.extensions.options.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\10.0.1\\npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\openqa.selenium.winium\\1.0.0.4\\openqa.selenium.winium.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\quartz\\3.13.1\\quartz.3.13.1.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\quartz.extensions.dependencyinjection\\3.13.1\\quartz.extensions.dependencyinjection.3.13.1.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\quartz.extensions.hosting\\3.13.1\\quartz.extensions.hosting.3.13.1.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\selenium.webdriver\\4.43.0\\selenium.webdriver.4.43.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\selenium.webdriver.chromedriver\\147.0.7727.11700\\selenium.webdriver.chromedriver.147.0.7727.11700.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\seleniumbrowsers.invokationcore\\1.0.0\\seleniumbrowsers.invokationcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Версия обнаруженного пакета нарушает ограничение зависимости: OpenQA.Selenium.Winium 1.0.0.4 требуется Selenium.WebDriver (= 3.141.0), но в результате разрешения получена версия Selenium.WebDriver 4.43.0.",
+      "projectPath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "libraryId": "Selenium.WebDriver",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"OpenQA.Selenium.Winium 1.0.0.4\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "libraryId": "OpenQA.Selenium.Winium",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"SeleniumBrowsers.InvokationCore 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net10.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\repos\\ITproj\\ScheduleScraperUtil\\ScheduleScraperUtil.csproj",
+      "libraryId": "SeleniumBrowsers.InvokationCore",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

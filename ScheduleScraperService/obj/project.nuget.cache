@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "efJD+HMAPdw=",
+  "success": true,
+  "projectFilePath": "F:\\repos\\ITproj\\ScheduleScraperService\\ScheduleScraperService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova1\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\selenium.webdriver\\4.43.0\\selenium.webdriver.4.43.0.nupkg.sha512",
+    "C:\\Users\\Vova1\\.nuget\\packages\\selenium.webdriver.chromedriver\\147.0.7727.11700\\selenium.webdriver.chromedriver.147.0.7727.11700.nupkg.sha512"
+  ],
+  "logs": []
+}
